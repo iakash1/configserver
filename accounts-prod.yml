@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related proprod APIs "
+  message: "Welcome to EazyBank accounts related test hookdeck APIs "
   contactDetails:
     name: "Akash - Product Owner"
     email: "{cipher}7543c34ede93ef985c4871d664d4eb31413377539bfbce765058bb157af19fd44cd770b95f6ea15085104b64b79e6d1b"
