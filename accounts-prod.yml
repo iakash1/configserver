@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related test prod APIs "
+  message: "Welcome to EazyBank accounts related test production APIs "
   contactDetails:
     name: "Akash - Product Owner"
     email: "{cipher}c5e13fd3afbe998e740c42b0666a93c4720d504dde6e928613fa3e980da5f8f62007164d01b3ae9a5881707b0c04af62"
